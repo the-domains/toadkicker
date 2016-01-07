@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[toadkicker]]></title>
         <description><![CDATA[toadkicker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toadkicker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 18:23:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 18:53:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toadkicker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined3206eec7-dc6f-4e87-b2ef-cfd407dc9476/index.html</link>
+            <description><![CDATA[<p>I'm a website.</p>]]></description>
+            <link>https://thegrid.ai/toadkicker/3206eec7-dc6f-4e87-b2ef-cfd407dc9476/index.html</link>
             <guid isPermaLink="false">3206eec7-dc6f-4e87-b2ef-cfd407dc9476</guid>
-            <pubDate>Thu, 07 Jan 2016 18:23:32 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 18:53:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
