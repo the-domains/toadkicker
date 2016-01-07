@@ -1,0 +1,28 @@
+name: toadkicker
+favicon: null
+layout_spectrum: 0.7564917742274702
+typography_spectrum: 0.3387620379216969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.37928485544398427
+  lightness: 0.540137886069715
+  saturation: 0.9124792611692101
+  rhythmicContrast: 0.816980310017243
+purpose: []
